@@ -37,3 +37,4 @@
 
 # Ignore ENV variable file
 .env
+app/assets/stylesheets/flexbox-ultralight.css
